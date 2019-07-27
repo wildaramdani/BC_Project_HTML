@@ -1,20 +1,34 @@
+body {
+  padding-top: 3.5rem;
+}
 .blue {
-    background-color: blue;
-    color: white;
+	background-color: blue; 
+	color: white;
 }
-
 .green {
-    color: green;
+color: green
 }
-
-.st-img{
-    border : 1px #41ad43 solid;
+.st-img {
+	border: 1px #41ad43 solid;
 }
-
-.tabel td {
-    background-color: #888;
-}
-
 .tabel {
-    color: #fff;
+	background-color: #888;
 }
+.tabel td {
+	color: #fff;
+}
+.jumbotron {
+	background-image: url(https://www.bannerbatterien.com/upload/filecache/Banner-Batterien-Windrder2-web_bd5cb0f721881d106522f6b9cc8f5be6.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+#logox {
+	margin: 0 10px 0 0;
+} 
+
+.footer {
+	background: #888;
+	height: 60px;
+}
+
