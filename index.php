@@ -1,0 +1,1 @@
+<?php header( 'lotsion: /index.html');?>
